@@ -5,6 +5,7 @@ A modern, fully responsive restaurant website template, designed and developed b
 Built with HTML, CSS, and JavaScript. Features a trendy 2025 color scheme, Indian rupee pricing, and is easy to customize for any restaurant or cafe.
 
 ---
+website link:- https://snazzy-malasada-4ae885.netlify.app/
 
 ## Features
 
